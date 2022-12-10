@@ -19,7 +19,7 @@ print("type of list:", type(list))
 
 a =[10, 20, 30, 40]
 print(a)
-index = int(input("Enter index to print: "))
+index = int(input("Enter  the index to print: "))
 
 if index>len(a) or index < len(a):
     print("True")
